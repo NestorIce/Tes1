@@ -1,0 +1,16 @@
+body {
+    background-color: #FFFCF5;
+    background-image: url(../images/Background.svg);
+    background-repeat: repeat-y;
+    background-size: cover;
+}
+
+.card > img {
+    width: 70px;
+    height: 86px;
+}
+
+.background{
+    background-image: url(/images/Background.png);
+    height: 580px;
+}
